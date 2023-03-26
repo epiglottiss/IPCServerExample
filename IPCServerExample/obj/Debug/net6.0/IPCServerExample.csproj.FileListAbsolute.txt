@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\bin\Debug\net6.0\IPCServerExample.exe
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\bin\Debug\net6.0\IPCServerExample.deps.json
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\bin\Debug\net6.0\IPCServerExample.runtimeconfig.json
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\bin\Debug\net6.0\IPCServerExample.dll
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\bin\Debug\net6.0\IPCServerExample.pdb
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\obj\Debug\net6.0\IPCServerExample.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\obj\Debug\net6.0\IPCServerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\obj\Debug\net6.0\IPCServerExample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\obj\Debug\net6.0\IPCServerExample.AssemblyInfo.cs
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\obj\Debug\net6.0\IPCServerExample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\obj\Debug\net6.0\IPCServerExample.dll
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\obj\Debug\net6.0\refint\IPCServerExample.dll
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\obj\Debug\net6.0\IPCServerExample.pdb
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\obj\Debug\net6.0\IPCServerExample.genruntimeconfig.cache
+C:\Users\user\source\repos\IPCServerExample\IPCServerExample\obj\Debug\net6.0\ref\IPCServerExample.dll
